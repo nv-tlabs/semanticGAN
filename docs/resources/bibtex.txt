@@ -1,6 +1,6 @@
 @inproceedings{semanticGAN, 
 title={Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization}, 
 booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)}, 
-author={Li, Daiqing and Yang, Junlin and Karsten, Kreis and Antonio, Torralba and Fidler, Sanja}, 
+author={Li, Daiqing and Yang, Junlin and Kreis, Karsten and Torralba, Antonio and Fidler, Sanja}, 
 year={2021}, 
 }
